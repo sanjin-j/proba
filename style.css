@@ -1,0 +1,81 @@
+.collapse-content .fa.fa-heart:hover {
+  color: #f44336 !important;
+}
+.collapse-content .fa.fa-share-alt:hover {
+  color: #0d47a1 !important;
+}
+.carousel{
+  inline-size: auto;
+}
+.anime video {
+ width: 80%;
+ 
+ 
+}
+.anime a {
+  width: 30%;
+  
+ }
+
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  margin-left: -40px;
+  
+  
+  
+}
+  .card {
+    display: inline-block;
+    flex: 0 0 auto;
+    width: 10%;
+    margin-right: 4px;
+    
+    
+  }
+  .card img{
+    width: 100%;
+    height: 300px;
+  }
+  .videos {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    margin-left: -40px;
+  }
+  .vide {
+    display: inline-block;
+    flex: 0 0 auto;
+    width: 10%;
+    margin-left: -6px;
+    
+    
+  }
+  .vide img {
+    width: 100%;
+    height: 150px;
+  }
+  .lorem{
+    margin-left: -25px;
+  }
+  .hed img{
+   height: 450px;
+  }
+  
+  .rgba {
+      background-color: rgba(0, 0, 0, 0.795);
+     
+      
+  }
+  .rgba h5,h3,p  {
+    
+    font-size: small;
+    
+}
