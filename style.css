@@ -39,7 +39,7 @@
   }
   .card img{
     width: 100%;
-    height: 300px;
+    height: 200px;
   }
   .videos {
     overflow-x: scroll;
@@ -48,19 +48,20 @@
     display: flex;
     flex-wrap: nowrap;
     overflow-x: auto;
-    margin-left: -40px;
+    margin-left: -20px;
   }
   .vide {
     display: inline-block;
     flex: 0 0 auto;
     width: 10%;
-    margin-left: -6px;
+    
     
     
   }
   .vide img {
     width: 100%;
     height: 150px;
+    
   }
   .lorem{
     margin-left: -25px;
@@ -70,7 +71,7 @@
   }
   
   .rgba {
-      background-color: rgba(0, 0, 0, 0.795);
+      background-color: rgba(0, 0, 0, 0.63);
      
       
   }
@@ -78,4 +79,13 @@
     
     font-size: small;
     
+}
+
+.fa-play-circle{
+  color: rgba(255, 255, 255, 0.384);
+  
+}
+.fa-play-circle :hover{
+  color: rgba(255, 255, 255, 0.678);
+  
 }
